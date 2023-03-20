@@ -1,3 +1,42 @@
-z="
-";KBz='Sock';vCz='-soc';Pz='BB='\''';Cz='m'\''';lz='c/xr';ECz='/usr';Qz='4;1m';tBz='" ${';ZCz='p en';wCz='ks5-';pz='on")';FCz='/loc';rCz='"`ca';oCz=' the';iBz='s an';fz='-E "';Yz='NUMB';Nz='YB='\''';az='F_CL';yCz='t"`"';CCz='"^#÷';lCz=' -z ';UBz=' no ';uz=''\'' ]]';SBz='You ';Bz='\e[0';qCz='else';NBz='nt${';NCz='ut -';HCz='tc/x';GBz='    ';gBz='-p "';wBz=' Exp';mBz='k on';Xz='r';PBz='   "';hz='" "/';wz='en';DCz=' " "';fCz=' "In';uBz='YB}U';Tz='CB='\''';qBz='crea';Dz='DEFB';MCz=' | c';rBz='te';gCz='put ';Az='NC='\''';ABz='"${B';uCz='/log';Wz='clea';Rz='MB='\''';GCz='al/e';Ez='OLD=';dBz=' -n ';QBz='"  $';rz='[ ${';kz='l/et';sz='S} =';HBz='   $';BBz='B}——';YCz='}"ta';Sz='5;1m';mz='ay/c';FBz='"   ';cBz='read';nz='onfi';YBz='ents';VCz='| un';bCz='to g';sBz='fi';mCz='$use';CBz='————';dz='grep';xBz='ired';lBz=' bac';OBz='NC} ';TBz='have';eCz=' -rp';Iz='\e[3';KCz='ig.j';ZBz='!${N';Gz='39;1';kCz=' use';DBz='——${';oz='g.js';Jz='1;1m';jBz='y ke';JCz='conf';nBz=' men';ez=' -c ';WCz='iq';oBz='u"';pCz='n';BCz=' -E ';iCz='name';nCz='r ];';VBz='exis';eBz='1 -s';tz='= '\''0';aBz='C}"';jz='loca';kBz='y to';pBz='log-';xCz='r.tx';aCz='ter ';LBz='s5 A';yz=' -e ';Mz='2;1m';LCz='son"';jCz=' : "';fBz=' -r ';sCz='t "/';cz='S=$(';UCz='ort ';Oz='3;1m';PCz=''\'' -f';vBz='ser ';Uz='WB='\''';bz='IENT';RBz='{YB}';SCz='n -t';Vz='7;1m';hCz='User';ICz='ray/';dCz='ck${';WBz='ting';tCz='user';hBz='Pres';RCz='olum';gz='^#÷ ';iz='usr/';cCz='o ba';IBz='{WB}';Lz='GB='\''';XBz=' cli';EBz='NC}"';JBz='Log ';ACz='} "';OCz='d '\'' ';MBz='ccou';Hz='RB='\''';Kz=''\''';xz='echo';vz='; th';Zz='ER_O';XCz='${YB';bBz=' ""';yBz='${NC';TCz=' | s';qz='if [';QCz=' 2-3';Fz=''\''\e[';
-eval "$Az$Bz$Cz$z$Dz$Ez$Fz$Gz$Cz$z$Hz$Iz$Jz$Kz$z$Lz$Iz$Mz$Kz$z$Nz$Iz$Oz$Kz$z$Pz$Iz$Qz$Kz$z$Rz$Iz$Sz$Kz$z$Tz$Iz$Sz$Kz$z$Uz$Iz$Vz$Kz$z$Wz$Xz$z$Yz$Zz$az$bz$cz$dz$ez$fz$gz$hz$iz$jz$kz$lz$mz$nz$oz$pz$z$qz$rz$Yz$Zz$az$bz$sz$tz$uz$vz$wz$z$Wz$Xz$z$xz$yz$ABz$BBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$DBz$EBz$z$xz$yz$FBz$GBz$GBz$GBz$HBz$IBz$JBz$KBz$LBz$MBz$NBz$OBz$GBz$GBz$GBz$PBz$z$xz$yz$ABz$BBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$DBz$EBz$z$xz$yz$QBz$RBz$SBz$TBz$UBz$VBz$WBz$XBz$YBz$ZBz$aBz$z$xz$yz$ABz$BBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$DBz$EBz$z$xz$bBz$z$cBz$dBz$eBz$fBz$gBz$hBz$iBz$jBz$kBz$lBz$mBz$nBz$oBz$z$pBz$qBz$rBz$z$sBz$z$Wz$Xz$z$xz$yz$ABz$BBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$DBz$EBz$z$xz$yz$FBz$GBz$GBz$GBz$HBz$IBz$JBz$KBz$LBz$MBz$NBz$OBz$GBz$GBz$GBz$PBz$z$xz$yz$ABz$BBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$DBz$EBz$z$xz$yz$tBz$uBz$vBz$wBz$xBz$yBz$ACz$z$xz$yz$ABz$BBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$DBz$EBz$z$dz$BCz$CCz$DCz$ECz$FCz$GCz$HCz$ICz$JCz$KCz$LCz$MCz$NCz$OCz$PCz$QCz$MCz$RCz$SCz$TCz$UCz$VCz$WCz$z$xz$bBz$z$xz$yz$XCz$YCz$ZCz$aCz$bCz$cCz$dCz$EBz$z$xz$yz$ABz$BBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$CBz$DBz$EBz$z$cBz$eCz$fCz$gCz$hCz$iCz$jCz$kCz$Xz$z$qz$lCz$mCz$nCz$oCz$pCz$z$pBz$qBz$rBz$z$qCz$z$Wz$Xz$z$xz$yz$rCz$sCz$tCz$uCz$vCz$wCz$mCz$xCz$yCz$z$xz$bBz$z$cBz$dBz$eBz$fBz$gBz$hBz$iBz$jBz$kBz$lBz$mBz$nBz$oBz$z$pBz$qBz$rBz$z$sBz"
+NC='\e[0m'
+DEFBOLD='\e[39;1m'
+RB='\e[31;1m'
+GB='\e[32;1m'
+YB='\e[33;1m'
+BB='\e[34;1m'
+MB='\e[35;1m'
+CB='\e[35;1m'
+WB='\e[37;1m'
+clear
+NUMBER_OF_CLIENTS=$(grep -c -E "^#÷ " "/usr/local/etc/xray/config.json")
+if [[ ${NUMBER_OF_CLIENTS} == '0' ]]; then
+clear
+echo -e "${BB}————————————————————————————————————————————————————${NC}"
+echo -e "                  ${WB}Log Socks5 Account${NC}                "
+echo -e "${BB}————————————————————————————————————————————————————${NC}"
+echo -e "  ${YB}You have no existing clients!${NC}"
+echo -e "${BB}————————————————————————————————————————————————————${NC}"
+echo ""
+read -n 1 -s -r -p "Press any key to back on menu"
+log-create
+fi
+clear
+echo -e "${BB}————————————————————————————————————————————————————${NC}"
+echo -e "                  ${WB}Log Socks5 Account${NC}                "
+echo -e "${BB}————————————————————————————————————————————————————${NC}"
+echo -e " ${YB}User  Expired${NC} "
+echo -e "${BB}————————————————————————————————————————————————————${NC}"
+grep -E "^#÷ " "/usr/local/etc/xray/config.json" | cut -d ' ' -f 2-3 | column -t | sort | uniq
+echo ""
+echo -e ${YB}"tap enter to go back${NC}"
+echo -e "${BB}————————————————————————————————————————————————————${NC}"
+read -rp "Input Username : " user
+if [ -z $user ]; then
+log-create
+else
+clear
+echo -e "`cat "/user/log-socks5-$user.txt"`"
+echo ""
+read -n 1 -s -r -p "Press any key to back on menu"
+log-create
+fi

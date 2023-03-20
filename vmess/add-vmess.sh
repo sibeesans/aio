@@ -1,3 +1,189 @@
-z="
-";qEz='EOF`';LBz='dd V';kEz='"hos';az='(cat';cFz='- na';VCz='"';UDz='@ '\''"';eCz=' bac';UJz='ka" ';OEz='user';sIz='880,';wFz='tls:';nIz=' 844';Xz='r';XCz='1 -s';EBz='————';hHz=' -a ';fBz='r /u';FDz='ktif';UGz=': fa';wz=' '\''0'\''';WDz='xp"'\''';wHz='"Dom';BEz='exp"';tEz='none';DGz='ue';XJz=' vme';ZEz='0",';bBz='S=$(';vz='} ==';dCz='y to';mEz='main';UCz='{NC}';LHz='ity)';ZDz='id":';MEz='"ps"';Vz='7;1m';THz='—${N';CFz='$(ec';pIz='LS :';qz='$ &&';OCz='se c';mBz='.jso';Cz='m'\''';JBz='  ${';WBz='" -e';fJz='k TL';GDz='exp=';dHz='coun';FJz=' aut';XIz='a /u';iJz='ink1';vHz='TY" ';lBz='nfig';EHz='g)';pEz='}';JDz=' "$m';dIz='PC  ';BGz='rify';VIz=' | t';ZCz='-p "';YCz=' -r ';XHz='er/l';qFz=' 0';lJz='k gR';Lz='GB='\''';VEz='t": ';jEz='e",';FCz='ifie';gEz='"typ';rDz='ray/';qIz=' 808';GHz='usr/';UIz=' 80"';FGz='netw';LFz='k3="';vIz='6, 2';KCz='dy c';lGz='pc"';fDz='rId"';NBz=' Acc';IDz='e -d';tGz=')';lEz='"$do';cz='r/lo';QGz='N)';gJz=' $vm';IHz='l/et';Mz='2;1m';aEz='"net';MIz='m).$';eGz='-opt';nGz=' Vme';BDz=' (da';LDz='s" +';YHz='og-v';RDz='/#vm';LIz='g.co';cJz='p/1.';HGz=' ws';NHz='emct';HJz='"Net';TJz='a-su';HDz='`dat';YFz='s WS';AHz='ISP=';gz='/dom';rJz='p://';YGz='CDN)';hGz='vice';lIz='7, 2';cGz=' grp';yGz='END';HBz='"   ';yz=' do';tDz='ig.j';UHz='C}" ';cEz='"pat';ACz='clie';pCz='at /';kBz='y/co';SIz='t NT';BIz='tee ';FBz='——${';KJz='sock';fCz='k on';hBz='ocal';dJz='1" |';uGz=' NTL';oBz='wc -';FHz='CITY';RGz=': 80';KGz='path';QEz='"add';lFz='port';Ez='OLD=';mDz=''\''"'\'' ';mIz='096,';eHz='t   ';RJz='ubah';yBz='B}A ';wIz='095"';ZGz='ain';GBz='NC}"';nJz='"For';CCz='ith ';CDz='ys):';dz='cal/';AGz='t-ve';UFz=' END';SDz='ess$';CHz='t /u';yEz='slin';Tz='CB='\''';gCz=' men';rHz='P" |';ZJz='n   ';vJz='ss/v';rCz='/sys';ZIz='log-';OHz='l re';NCz='plea';ICz='as a';xHz='ain ';cCz='y ke';sCz='/ker';SEz='$dom';rz=' ${C';ZFz=' (CD';QBz='}   ';ez='etc/';SCz='r na';YIz='ser/';DDz=' " m';qJz='h  :';Sz='5;1m';rGz=' TLS';QHz='t xr';fIz=' Por';Nz='YB='\''';iz='unti';mJz='ink3';gFz='type';TFz='t <<';bFz='LS';pHz='"ISP';Az='NC='\''';MJz='"Pat';fz='xray';aBz='XIST';DHz='y/or';iFz='ess';eFz='s-$u';uEz='k3=`';CIz='-a /';PHz='star';SFz='r.tx';IIz='dcar';lDz='er""';jz='l [[';WIz='ee -';eBz='$use';FFz=' bas';yDz='#@ '\''';SJz=' suk';YJz='"Alp';hEz='e": ';bGz='uid';aIz='ser.';VGz='lse';nHz='   :';gIz='S  :';tBz='= '\''1';TEz='ain"';OBz='ount';Oz='3;1m';oz='-Z0-';cDz='id""';oJz='mat ';eEz='"/vm';xCz=' -p ';TGz='se';YDz='},{"';vFz='e';JJz=' Web';DFz='ho $';Gz='39;1';hDz='0"'\'',';ODz='d"`';WCz=' -n ';ZHz='-$us';tCz='nel/';RIz=' 443';hIz=' 205';GFz='e64 ';KEz=' "2"';wGz=' gRP';qDz='tc/x';vCz='om/u';cHz='s Ac';sBz='S} =';rIz='0, 8';ABz='echo';yJz=' $ex';aGz=': $u';oCz='=$(c';lHz='"Rem';HHz='loca';NGz='ers:';aDz=' "'\''"';PDz='sed ';ECz='spec';fEz='ess"';qBz='if [';PIz='t TL';yIz=' $uu';Jz='1;1m';vBz='; th';QCz='e an';gHz=' tee';MHz='syst';XFz='Vmes';RHz='ay';JEz='"v":';Zz='in=$';XBz=' use';MBz='mess';VHz='| te';CGz=': tr';yFz='-cer';Yz='doma';aHz='er.t';xEz='rpc"';kIz=' 208';PEz='",';DBz='B}——';JCz='lrea';nCz='uuid';cIz='t gR';rBz='[ ${';vEz='"vme';PFz='ww/h';YBz='CLIE';AFz='k1="';uJz='/vme';NDz='%m-%';oGz='ss A';vDz='ess-';BHz='$(ca';bIz='txt';iIz='3, 2';KBz='WB}A';kz=' $us';pJz='Clas';rEz='k2=`';EDz='asaa';oEz='tls"';iBz='/etc';uCz='rand';SBz='read';aCz='Pres';Rz='MB='\''';kCz='s';EFz='k1 |';tHz='y   ';jCz='vmes';Uz='WB='\''';UBz=' "Us';jDz='il":';sHz='"Cit';QJz=') • ';AEz='er $';EJz='urit';VFz='====';KHz='ay/c';LGz=': /v';KIz=' (bu';BCz='nt w';VDz='r $e';AIz='" | ';BBz=' -e ';fHz=' " |';NFz='> /v';qHz=' $IS';PGz='in}';CJz=' 0" ';dDz=''\''","';sDz='conf';XEz='"id"';nz='a-zA';sz='LIEN';nBz='n | ';wCz='uid)';dBz=' -w ';DEz='vlin';DIz='/log';Iz='\e[3';GEz='<< E';oDz='/loc';WEz='"443';QFz='tml/';RBz='   "';pFz='rId:';kFz='${do';TIz='LS  ';HEz='OF';sGz='  : ';sFz='auto';VBz='er: ';wJz='xt" ';fGz='s:';pBz='l)';Qz='4;1m';gBz='sr/l';JFz='k2="';oIz='3" |';hJz='essl';aJz=' h2,';QDz='-i '\''';MCz='ed, ';uHz=' $CI';Fz=''\''\e[';DJz='"Sec';EEz='k1=`';gDz=': '\''"';IJz='work';tFz='udp:';PCz='hoos';EGz='erna';Wz='clea';wDz='grpc';JGz='pts:';lz='er =';ZBz='NT_E';jIz='083,';CBz='"${B';lCz='fi';wEz='ss-g';BKz=' " "';xJz=' On ';xFz='skip';EIz='-vme';IFz=')"';IGz='ws-o';VJz='"Ser';REz='": "';iEz='"non';KFz='k2 |';jJz='k NT';LCz='reat';oFz=': ${';bEz='ws",';Bz='\e[0';bDz='"$uu';uDz='son';CEz=''\''\';RCz='othe';xGz='C : ';SHz='"———';IEz='{';xz=' ]];';sEz='"80"';WGz='s gR';pGz='ccou';HCz='me w';jBz='/xra';iGz='-nam';bz=' /us';MFz='k3 |';tJz='8000';hz='ain)';uFz=' tru';eJz='"Lin';LJz='et" ';TCz='me.$';hFz=': vm';jFz='serv';mGz='Link';OJz=' /(m';kDz='"$us';sJz='ain:';MGz='head';WJz='Name';tz='T_EX';mCz='done';GIz='.txt';BJz='erId';iCz='add-';NEz=': "$';JHz='c/xr';XDz='\';YEz='"aid';mHz='arks';GJz='o" |';GGz='ork:';uz='ISTS';qCz='proc';xIz='"id ';HIz='"Wil';wBz='en';eDz='alte';bHz='xt';kHz='t';XGz='PC (';FEz='cat ';cBz='grep';GCz='d na';QIz='S   ';TDz='/a\#';yCz='"Exp';Pz='BB='\''';vGz='S : ';IBz='    ';yHz=' $do';UEz='"por';OIz='"Por';uIz='082,';AJz='id" ';OGz='Host';WHz='e -a';jGz='e: "';DCz='the ';KDz=' day';bJz=' htt';nEz='"tls';nFz='3';ADz='ired';aFz='N) T';gGz='-ser';PBz='${NC';Dz='DEFB';dGz='c';jHz='g-vm';mz='~ ^[';HFz='-w 0';NIz='in" ';mFz=': 44';pDz='al/e';dEz='h": ';kJz='ink2';uBz=''\'' ]]';FIz='ss-$';dFz='me: ';Hz='RB='\''';AKz='p" |';nDz='/usr';WFz='==';xBz='"${Y';NJz='h   ';JIz='d   ';BFz='s://';OFz='ar/w';SGz=' fal';pz='9_]+';oHz='er" ';eIz='"Alt';LEz=',';PJz='ulti';iDz='"ema';rFz='ciph';TBz=' -rp';Kz=''\''';hCz='u"';xDz='$/a\';RFz='s/vm';kGz='s-gr';MDz='"%Y-';tIz='2, 2';fFz='ser';bCz='s an';qGz='nt';iHz='/use';
-eval "$Az$Bz$Cz$z$Dz$Ez$Fz$Gz$Cz$z$Hz$Iz$Jz$Kz$z$Lz$Iz$Mz$Kz$z$Nz$Iz$Oz$Kz$z$Pz$Iz$Qz$Kz$z$Rz$Iz$Sz$Kz$z$Tz$Iz$Sz$Kz$z$Uz$Iz$Vz$Kz$z$Wz$Xz$z$Yz$Zz$az$bz$cz$dz$ez$fz$gz$hz$z$iz$jz$kz$lz$mz$nz$oz$pz$qz$rz$sz$tz$uz$vz$wz$xz$yz$z$ABz$BBz$CBz$DBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$FBz$GBz$z$ABz$BBz$HBz$IBz$IBz$IBz$JBz$KBz$LBz$MBz$NBz$OBz$PBz$QBz$IBz$IBz$IBz$RBz$z$ABz$BBz$CBz$DBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$FBz$GBz$z$SBz$TBz$UBz$VBz$WBz$XBz$Xz$z$YBz$ZBz$aBz$bBz$cBz$dBz$eBz$fBz$gBz$hBz$iBz$jBz$kBz$lBz$mBz$nBz$oBz$pBz$z$qBz$rBz$YBz$ZBz$aBz$sBz$tBz$uBz$vBz$wBz$z$Wz$Xz$z$ABz$BBz$CBz$DBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$FBz$GBz$z$ABz$BBz$HBz$IBz$IBz$IBz$JBz$KBz$LBz$MBz$NBz$OBz$PBz$QBz$IBz$IBz$IBz$RBz$z$ABz$BBz$CBz$DBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$FBz$GBz$z$ABz$BBz$xBz$yBz$ACz$BCz$CCz$DCz$ECz$FCz$GCz$HCz$ICz$JCz$KCz$LCz$MCz$NCz$OCz$PCz$QCz$RCz$SCz$TCz$UCz$VCz$z$ABz$BBz$CBz$DBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$FBz$GBz$z$SBz$WCz$XCz$YCz$ZCz$aCz$bCz$cCz$dCz$eCz$fCz$gCz$hCz$z$iCz$jCz$kCz$z$lCz$z$mCz$z$nCz$oCz$pCz$qCz$rCz$sCz$tCz$uCz$vCz$wCz$z$SBz$xCz$yCz$ADz$BDz$CDz$DDz$EDz$FDz$z$GDz$HDz$IDz$JDz$EDz$FDz$KDz$LDz$MDz$NDz$ODz$z$PDz$QDz$RDz$SDz$TDz$UDz$eBz$VDz$WDz$XDz$z$YDz$ZDz$aDz$bDz$cDz$dDz$eDz$fDz$gDz$hDz$iDz$jDz$aDz$kDz$lDz$mDz$nDz$oDz$pDz$qDz$rDz$sDz$tDz$uDz$z$PDz$QDz$RDz$vDz$wDz$xDz$yDz$kDz$AEz$BEz$CEz$z$YDz$ZDz$aDz$bDz$cDz$dDz$eDz$fDz$gDz$hDz$iDz$jDz$aDz$kDz$lDz$mDz$nDz$oDz$pDz$qDz$rDz$sDz$tDz$uDz$z$DEz$EEz$FEz$GEz$HEz$z$IEz$z$JEz$KEz$LEz$z$MEz$NEz$OEz$PEz$z$QEz$REz$SEz$TEz$LEz$z$UEz$VEz$WEz$PEz$z$XEz$NEz$nCz$PEz$z$YEz$REz$ZEz$z$aEz$REz$bEz$z$cEz$dEz$eEz$fEz$LEz$z$gEz$hEz$iEz$jEz$z$kEz$VEz$lEz$mEz$PEz$z$nEz$REz$oEz$z$pEz$z$qEz$z$DEz$rEz$FEz$GEz$HEz$z$IEz$z$JEz$KEz$LEz$z$MEz$NEz$OEz$PEz$z$QEz$REz$SEz$TEz$LEz$z$UEz$VEz$sEz$LEz$z$XEz$NEz$nCz$PEz$z$YEz$REz$ZEz$z$aEz$REz$bEz$z$cEz$dEz$eEz$fEz$LEz$z$gEz$hEz$iEz$jEz$z$kEz$VEz$lEz$mEz$PEz$z$nEz$REz$tEz$VCz$z$pEz$z$qEz$z$DEz$uEz$FEz$GEz$HEz$z$IEz$z$JEz$KEz$LEz$z$MEz$NEz$OEz$PEz$z$QEz$REz$SEz$TEz$LEz$z$UEz$VEz$WEz$PEz$z$XEz$NEz$nCz$PEz$z$YEz$REz$ZEz$z$aEz$REz$wDz$PEz$z$cEz$dEz$vEz$wEz$xEz$LEz$z$gEz$hEz$iEz$jEz$z$kEz$VEz$lEz$mEz$PEz$z$nEz$REz$oEz$z$pEz$z$qEz$z$jCz$yEz$AFz$jCz$BFz$CFz$DFz$DEz$EFz$FFz$GFz$HFz$IFz$z$jCz$yEz$JFz$jCz$BFz$CFz$DFz$DEz$KFz$FFz$GFz$HFz$IFz$z$jCz$yEz$LFz$jCz$BFz$CFz$DFz$DEz$MFz$FFz$GFz$HFz$IFz$z$FEz$NFz$OFz$PFz$QFz$jCz$RFz$vDz$eBz$SFz$TFz$UFz$z$VFz$VFz$VFz$VFz$VFz$VFz$WFz$z$XFz$YFz$ZFz$aFz$bFz$z$VFz$VFz$VFz$VFz$VFz$VFz$WFz$z$cFz$dFz$XFz$eFz$fFz$z$gFz$hFz$iFz$z$jFz$VBz$kFz$mEz$pEz$z$lFz$mFz$nFz$z$nCz$oFz$nCz$pEz$z$eDz$pFz$qFz$z$rFz$VBz$sFz$z$tFz$uFz$vFz$z$wFz$uFz$vFz$z$xFz$yFz$AGz$BGz$CGz$DGz$z$jFz$EGz$dFz$kFz$mEz$pEz$z$FGz$GGz$HGz$z$IGz$JGz$z$KGz$LGz$MBz$z$MGz$NGz$z$OGz$oFz$Yz$PGz$z$VFz$VFz$VFz$VFz$VFz$VFz$WFz$z$XFz$YFz$ZFz$QGz$z$VFz$VFz$VFz$VFz$VFz$VFz$WFz$z$cFz$dFz$XFz$eFz$fFz$z$gFz$hFz$iFz$z$jFz$VBz$kFz$mEz$pEz$z$lFz$RGz$z$nCz$oFz$nCz$pEz$z$eDz$pFz$qFz$z$rFz$VBz$sFz$z$tFz$uFz$vFz$z$wFz$SGz$TGz$z$xFz$yFz$AGz$BGz$UGz$VGz$z$jFz$EGz$dFz$kFz$mEz$pEz$z$FGz$GGz$HGz$z$IGz$JGz$z$KGz$LGz$MBz$z$MGz$NGz$z$OGz$oFz$Yz$PGz$z$VFz$VFz$VFz$VFz$VFz$VFz$WFz$z$XFz$WGz$XGz$YGz$z$VFz$VFz$VFz$VFz$VFz$VFz$WFz$z$cFz$dFz$XFz$eFz$fFz$z$jFz$VBz$SEz$ZGz$z$lFz$mFz$nFz$z$gFz$hFz$iFz$z$nCz$aGz$bGz$z$eDz$pFz$qFz$z$rFz$VBz$sFz$z$FGz$GGz$cGz$dGz$z$wFz$uFz$vFz$z$jFz$EGz$dFz$SEz$ZGz$z$xFz$yFz$AGz$BGz$CGz$DGz$z$wDz$eGz$fGz$z$wDz$gGz$hGz$iGz$jGz$jCz$kGz$lGz$z$VFz$VFz$VFz$VFz$VFz$VFz$WFz$z$mGz$nGz$oGz$pGz$qGz$z$VFz$VFz$VFz$VFz$VFz$VFz$WFz$z$mGz$rGz$sGz$jCz$BFz$CFz$DFz$DEz$EFz$FFz$GFz$HFz$tGz$z$VFz$VFz$VFz$VFz$VFz$VFz$WFz$z$mGz$uGz$vGz$jCz$BFz$CFz$DFz$DEz$KFz$FFz$GFz$HFz$tGz$z$VFz$VFz$VFz$VFz$VFz$VFz$WFz$z$mGz$wGz$xGz$jCz$BFz$CFz$DFz$DEz$MFz$FFz$GFz$HFz$tGz$z$VFz$VFz$VFz$VFz$VFz$VFz$WFz$z$yGz$z$AHz$BHz$CHz$gBz$hBz$iBz$jBz$DHz$EHz$z$FHz$oCz$pCz$GHz$HHz$IHz$JHz$KHz$LHz$z$MHz$NHz$OHz$PHz$QHz$RHz$z$Wz$Xz$z$ABz$BBz$SHz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$THz$UHz$VHz$WHz$bz$XHz$YHz$MBz$ZHz$aHz$bHz$z$ABz$BBz$HBz$IBz$IBz$IBz$IBz$XFz$cHz$dHz$eHz$IBz$IBz$IBz$IBz$fHz$gHz$hHz$iHz$cz$jHz$vDz$eBz$SFz$kHz$z$ABz$BBz$SHz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$THz$UHz$VHz$WHz$bz$XHz$YHz$MBz$ZHz$aHz$bHz$z$ABz$BBz$lHz$mHz$IBz$nHz$kz$oHz$VHz$WHz$bz$XHz$YHz$MBz$ZHz$aHz$bHz$z$ABz$BBz$pHz$IBz$IBz$nHz$qHz$rHz$gHz$hHz$iHz$cz$jHz$vDz$eBz$SFz$kHz$z$ABz$BBz$sHz$tHz$IBz$nHz$uHz$vHz$VHz$WHz$bz$XHz$YHz$MBz$ZHz$aHz$bHz$z$ABz$BBz$wHz$xHz$IBz$nHz$yHz$mEz$AIz$BIz$CIz$OEz$DIz$EIz$FIz$OEz$GIz$z$ABz$BBz$HIz$IIz$JIz$nHz$KIz$LIz$MIz$Yz$NIz$VHz$WHz$bz$XHz$YHz$MBz$ZHz$aHz$bHz$z$ABz$BBz$OIz$PIz$QIz$nHz$RIz$AIz$BIz$CIz$OEz$DIz$EIz$FIz$OEz$GIz$z$ABz$BBz$OIz$SIz$TIz$nHz$UIz$VIz$WIz$XIz$YIz$ZIz$jCz$eFz$aIz$bIz$z$ABz$BBz$OIz$cIz$dIz$nHz$RIz$AIz$BIz$CIz$OEz$DIz$EIz$FIz$OEz$GIz$z$ABz$BBz$eIz$fIz$PIz$gIz$hIz$iIz$jIz$kIz$lIz$mIz$nIz$oIz$gHz$hHz$iHz$cz$jHz$vDz$eBz$SFz$kHz$z$ABz$BBz$eIz$fIz$SIz$pIz$qIz$rIz$sIz$hIz$tIz$uIz$kIz$vIz$wIz$VIz$WIz$XIz$YIz$ZIz$jCz$eFz$aIz$bIz$z$ABz$BBz$xIz$IBz$IBz$nHz$yIz$AJz$VHz$WHz$bz$XHz$YHz$MBz$ZHz$aHz$bHz$z$ABz$BBz$eIz$BJz$IBz$nHz$CJz$VHz$WHz$bz$XHz$YHz$MBz$ZHz$aHz$bHz$z$ABz$BBz$DJz$EJz$tHz$nHz$FJz$GJz$gHz$hHz$iHz$cz$jHz$vDz$eBz$SFz$kHz$z$ABz$BBz$HJz$IJz$IBz$nHz$JJz$KJz$LJz$VHz$WHz$bz$XHz$YHz$MBz$ZHz$aHz$bHz$z$ABz$BBz$MJz$NJz$IBz$nHz$OJz$PJz$KGz$QJz$RJz$SJz$TJz$UJz$VHz$WHz$bz$XHz$YHz$MBz$ZHz$aHz$bHz$z$ABz$BBz$VJz$hGz$WJz$nHz$XJz$wEz$xEz$VIz$WIz$XIz$YIz$ZIz$jCz$eFz$aIz$bIz$z$ABz$BBz$YJz$ZJz$IBz$nHz$aJz$bJz$cJz$dJz$gHz$hHz$iHz$cz$jHz$vDz$eBz$SFz$kHz$z$ABz$BBz$SHz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$THz$UHz$VHz$WHz$bz$XHz$YHz$MBz$ZHz$aHz$bHz$z$ABz$BBz$eJz$fJz$QIz$nHz$gJz$hJz$iJz$AIz$BIz$CIz$OEz$DIz$EIz$FIz$OEz$GIz$z$ABz$BBz$SHz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$THz$UHz$VHz$WHz$bz$XHz$YHz$MBz$ZHz$aHz$bHz$z$ABz$BBz$eJz$jJz$TIz$nHz$gJz$hJz$kJz$AIz$BIz$CIz$OEz$DIz$EIz$FIz$OEz$GIz$z$ABz$BBz$SHz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$THz$UHz$VHz$WHz$bz$XHz$YHz$MBz$ZHz$aHz$bHz$z$ABz$BBz$eJz$lJz$dIz$nHz$gJz$hJz$mJz$AIz$BIz$CIz$OEz$DIz$EIz$FIz$OEz$GIz$z$ABz$BBz$SHz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$THz$UHz$VHz$WHz$bz$XHz$YHz$MBz$ZHz$aHz$bHz$z$ABz$BBz$nJz$oJz$pJz$qJz$bJz$rJz$SEz$sJz$tJz$uJz$vJz$MBz$ZHz$aHz$wJz$VHz$WHz$bz$XHz$YHz$MBz$ZHz$aHz$bHz$z$ABz$BBz$SHz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$THz$UHz$VHz$WHz$bz$XHz$YHz$MBz$ZHz$aHz$bHz$z$ABz$BBz$yCz$ADz$xJz$nHz$yJz$AKz$gHz$hHz$iHz$cz$jHz$vDz$eBz$SFz$kHz$z$ABz$BBz$SHz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$THz$UHz$VHz$WHz$bz$XHz$YHz$MBz$ZHz$aHz$bHz$z$ABz$BKz$VIz$WIz$XIz$YIz$ZIz$jCz$eFz$aIz$bIz$z$ABz$BKz$VIz$WIz$XIz$YIz$ZIz$jCz$eFz$aIz$bIz$z$ABz$BKz$VIz$WIz$XIz$YIz$ZIz$jCz$eFz$aIz$bIz$z$SBz$WCz$XCz$YCz$ZCz$aCz$bCz$cCz$dCz$eCz$fCz$gCz$hCz$z$Wz$Xz$z$jCz$kCz"
+NC='\e[0m'
+DEFBOLD='\e[39;1m'
+RB='\e[31;1m'
+GB='\e[32;1m'
+YB='\e[33;1m'
+BB='\e[34;1m'
+MB='\e[35;1m'
+CB='\e[35;1m'
+WB='\e[37;1m'
+clear
+domain=$(cat /usr/local/etc/xray/domain)
+until [[ $user =~ ^[a-zA-Z0-9_]+$ && ${CLIENT_EXISTS} == '0' ]]; do
+echo -e "${BB}————————————————————————————————————————————————————${NC}"
+echo -e "                 ${WB}Add Vmess Account${NC}                  "
+echo -e "${BB}————————————————————————————————————————————————————${NC}"
+read -rp "User: " -e user
+CLIENT_EXISTS=$(grep -w $user /usr/local/etc/xray/config.json | wc -l)
+if [[ ${CLIENT_EXISTS} == '1' ]]; then
+clear
+echo -e "${BB}————————————————————————————————————————————————————${NC}"
+echo -e "                 ${WB}Add Vmess Account${NC}                  "
+echo -e "${BB}————————————————————————————————————————————————————${NC}"
+echo -e "${YB}A client with the specified name was already created, please choose another name.${NC}"
+echo -e "${BB}————————————————————————————————————————————————————${NC}"
+read -n 1 -s -r -p "Press any key to back on menu"
+add-vmess
+fi
+done
+uuid=$(cat /proc/sys/kernel/random/uuid)
+read -p "Expired (days): " masaaktif
+exp=`date -d "$masaaktif days" +"%Y-%m-%d"`
+sed -i '/#vmess$/a\#@ '"$user $exp"'\
+},{"id": "'""$uuid""'","alterId": '"0"',"email": "'""$user""'"' /usr/local/etc/xray/config.json
+sed -i '/#vmess-grpc$/a\#@ '"$user $exp"'\
+},{"id": "'""$uuid""'","alterId": '"0"',"email": "'""$user""'"' /usr/local/etc/xray/config.json
+vlink1=`cat << EOF
+{
+"v": "2",
+"ps": "$user",
+"add": "$domain",
+"port": "443",
+"id": "$uuid",
+"aid": "0",
+"net": "ws",
+"path": "/vmess",
+"type": "none",
+"host": "$domain",
+"tls": "tls"
+}
+EOF`
+vlink2=`cat << EOF
+{
+"v": "2",
+"ps": "$user",
+"add": "$domain",
+"port": "80",
+"id": "$uuid",
+"aid": "0",
+"net": "ws",
+"path": "/vmess",
+"type": "none",
+"host": "$domain",
+"tls": "none"
+}
+EOF`
+vlink3=`cat << EOF
+{
+"v": "2",
+"ps": "$user",
+"add": "$domain",
+"port": "443",
+"id": "$uuid",
+"aid": "0",
+"net": "grpc",
+"path": "vmess-grpc",
+"type": "none",
+"host": "$domain",
+"tls": "tls"
+}
+EOF`
+vmesslink1="vmess://$(echo $vlink1 | base64 -w 0)"
+vmesslink2="vmess://$(echo $vlink2 | base64 -w 0)"
+vmesslink3="vmess://$(echo $vlink3 | base64 -w 0)"
+cat > /var/www/html/vmess/vmess-$user.txt << END
+==========================
+Vmess WS (CDN) TLS
+==========================
+- name: Vmess-$user
+type: vmess
+server: ${domain}
+port: 443
+uuid: ${uuid}
+alterId: 0
+cipher: auto
+udp: true
+tls: true
+skip-cert-verify: true
+servername: ${domain}
+network: ws
+ws-opts:
+path: /vmess
+headers:
+Host: ${domain}
+==========================
+Vmess WS (CDN)
+==========================
+- name: Vmess-$user
+type: vmess
+server: ${domain}
+port: 80
+uuid: ${uuid}
+alterId: 0
+cipher: auto
+udp: true
+tls: false
+skip-cert-verify: false
+servername: ${domain}
+network: ws
+ws-opts:
+path: /vmess
+headers:
+Host: ${domain}
+==========================
+Vmess gRPC (CDN)
+==========================
+- name: Vmess-$user
+server: $domain
+port: 443
+type: vmess
+uuid: $uuid
+alterId: 0
+cipher: auto
+network: grpc
+tls: true
+servername: $domain
+skip-cert-verify: true
+grpc-opts:
+grpc-service-name: "vmess-grpc"
+==========================
+Link Vmess Account
+==========================
+Link TLS  : vmess://$(echo $vlink1 | base64 -w 0)
+==========================
+Link NTLS : vmess://$(echo $vlink2 | base64 -w 0)
+==========================
+Link gRPC : vmess://$(echo $vlink3 | base64 -w 0)
+==========================
+END
+ISP=$(cat /usr/local/etc/xray/org)
+CITY=$(cat /usr/local/etc/xray/city)
+systemctl restart xray
+clear
+echo -e "————————————————————————————————————————————————————${NC}" | tee -a /user/log-vmess-$user.txt
+echo -e "                   Vmess Account                    " | tee -a /user/log-vmess-$user.txt
+echo -e "————————————————————————————————————————————————————${NC}" | tee -a /user/log-vmess-$user.txt
+echo -e "Remarks       : $user" | tee -a /user/log-vmess-$user.txt
+echo -e "ISP           : $ISP" | tee -a /user/log-vmess-$user.txt
+echo -e "City          : $CITY" | tee -a /user/log-vmess-$user.txt
+echo -e "Domain        : $domain" | tee -a /user/log-vmess-$user.txt
+echo -e "Wildcard      : (bug.com).$domain" | tee -a /user/log-vmess-$user.txt
+echo -e "Port TLS      : 443" | tee -a /user/log-vmess-$user.txt
+echo -e "Port NTLS     : 80" | tee -a /user/log-vmess-$user.txt
+echo -e "Port gRPC     : 443" | tee -a /user/log-vmess-$user.txt
+echo -e "Alt Port TLS  : 2053, 2083, 2087, 2096, 8443" | tee -a /user/log-vmess-$user.txt
+echo -e "Alt Port NTLS : 8080, 8880, 2052, 2082, 2086, 2095" | tee -a /user/log-vmess-$user.txt
+echo -e "id            : $uuid" | tee -a /user/log-vmess-$user.txt
+echo -e "AlterId       : 0" | tee -a /user/log-vmess-$user.txt
+echo -e "Security      : auto" | tee -a /user/log-vmess-$user.txt
+echo -e "Network       : Websocket" | tee -a /user/log-vmess-$user.txt
+echo -e "Path          : /(multipath) • ubah suka-suka" | tee -a /user/log-vmess-$user.txt
+echo -e "ServiceName   : vmess-grpc" | tee -a /user/log-vmess-$user.txt
+echo -e "Alpn          : h2, http/1.1" | tee -a /user/log-vmess-$user.txt
+echo -e "————————————————————————————————————————————————————${NC}" | tee -a /user/log-vmess-$user.txt
+echo -e "Link TLS      : $vmesslink1" | tee -a /user/log-vmess-$user.txt
+echo -e "————————————————————————————————————————————————————${NC}" | tee -a /user/log-vmess-$user.txt
+echo -e "Link NTLS     : $vmesslink2" | tee -a /user/log-vmess-$user.txt
+echo -e "————————————————————————————————————————————————————${NC}" | tee -a /user/log-vmess-$user.txt
+echo -e "Link gRPC     : $vmesslink3" | tee -a /user/log-vmess-$user.txt
+echo -e "————————————————————————————————————————————————————${NC}" | tee -a /user/log-vmess-$user.txt
+echo -e "Format Clash  : http://$domain:8000/vmess/vmess-$user.txt" | tee -a /user/log-vmess-$user.txt
+echo -e "————————————————————————————————————————————————————${NC}" | tee -a /user/log-vmess-$user.txt
+echo -e "Expired On    : $exp" | tee -a /user/log-vmess-$user.txt
+echo -e "————————————————————————————————————————————————————${NC}" | tee -a /user/log-vmess-$user.txt
+echo " " | tee -a /user/log-vmess-$user.txt
+echo " " | tee -a /user/log-vmess-$user.txt
+echo " " | tee -a /user/log-vmess-$user.txt
+read -n 1 -s -r -p "Press any key to back on menu"
+clear
+vmess

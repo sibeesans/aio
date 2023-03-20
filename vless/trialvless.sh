@@ -1,3 +1,115 @@
-z="
-";VFz='P" |';TBz='onfi';eFz='g.co';UDz=' ws';LFz='n}" ';JEz=' gRP';dBz=''\''\';Sz='-c4`';lCz='s WS';JHz='ss/v';AFz='ser}';VEz='CITY';gCz='t <<';tCz=': vl';REz='/etc';EFz='/log';SDz='netw';nGz=' h2,';rDz='-opt';sEz='coun';EHz='h  :';WGz='ion ';WDz='pts:';gFz='{dom';kGz='rpc"';eEz=' -e ';eDz=': 80';ICz='h=/v';TEz='y/or';ZEz='l re';Iz='/dom';IHz='/vle';PGz='082,';WFz='"Cit';XFz='y   ';tBz='ptio';CGz=' 205';Az='doma';cEz='ay';lGz='"Alp';RBz='c/xr';mDz='ain';IGz=' 844';UEz='g)';XDz='path';ECz='r"';wFz='t gR';yDz='Link';WEz='ity)';pGz='p/1.';pDz=' grp';CEz='ccou';MHz='ired';Dz=' /us';wEz='arks';vEz='"Rem';iDz='lse';cDz='in}';YBz='$/a\';MEz='ISP=';bz='om/u';aEz='star';dGz='et" ';Ez='r/lo';BDz='port';iCz='====';eHz='s';HFz='.txt';uCz='ess';RFz='er.t';cz='uid)';xz='= '\''"';LDz='skip';vBz='ne&h';sz='sed ';EDz=': ${';mEz='t';QFz='-$us';rFz='a /u';AHz='3}" ';SGz='"id ';eCz='s/vl';wCz='er: ';xDz='pc"';rEz='s Ac';IFz='"Dom';IEz='S : ';qCz='me: ';iEz=' tee';sCz='ser';YHz='y ke';RCz='ne&t';BGz='S  :';fGz='h   ';WBz='ess-';CBz='\';pCz='- na';dHz='u"';lDz='CDN)';UGz='"Enc';yGz='k gR';LGz=' 808';qDz='c';hFz='ain}';OFz='er/l';BBz='xp"'\''';gDz='se';tDz='-ser';Xz='/sys';DGz='3, 2';UCz='vice';OCz='=ws#';ODz='rify';DHz='Clas';xCz='${do';LHz='"Exp';PFz='og-v';sFz='ser/';QHz=' " "';wDz='s-gr';Qz=' | h';lEz='g-vl';Jz='ain)';EEz=' TL ';BCz='=ws&';ZFz='TY" ';Cz='(cat';wz='/a\#';Mz='al-`';XEz='syst';sGz='k TL';cBz='exp"';fCz='r.tx';TGz='uid}';VHz='-p "';oEz='    ';GFz='ss-$';VDz='ws-o';gz=' ""';eGz='"Pat';LCz='urit';Pz='NDOM';yBz='ain&';iGz='"Ser';bCz='ar/w';kBz='omai';bFz='dcar';XCz='ss-g';uBz='n=no';RGz='095"';HDz='udp:';YGz='e" |';QBz='l/et';cHz=' men';aFz='"Wil';aGz='work';XGz=' non';NEz='$(ca';aCz='> /v';oBz='s&se';GHz='ain:';XBz='grpc';Nz='echo';PDz=': tr';fFz='m).$';DDz='3';Lz='=tri';jBz='d@$d';uEz=' " |';hBz='s://';NFz='e -a';ABz='r $e';FBz=' "'\''"';oGz=' htt';tz='-i '\''';oCz='LS';lz='asaa';CHz='mat ';az='rand';FGz=' 208';nBz='th=/';hz='exp=';KEz='C : ';VGz='rypt';DFz='-a /';KHz='xt" ';wGz='k NT';ZDz='head';iFz='"Por';KFz=' ${d';LBz='"'\''""';ZGz='"Net';pFz=' | t';GDz='auto';tGz=' ${v';bHz='k on';mCz=' (CD';OEz='t /u';QGz='6, 2';CFz='tee ';FHz='p://';FEz='  : ';ez='akti';kCz='Vles';GGz='7, 2';YCz='rpc&';JBz='emai';Rz='ead ';xEz='   :';YFz=' $CI';cFz='d   ';mFz='t NT';TDz='ork:';fBz='slin';nDz=': $u';GBz='"$uu';Hz='xray';Yz='/ker';QEz='ocal';Kz='user';bBz='er $';PHz='p" |';sBz='ncry';KBz='l": ';PCz='k3="';jCz='==';kFz='S   ';VCz='Name';jGz=' vle';qGz='1" |';NCz='ne&e';vDz='e: "';JGz='3" |';dEz='clea';HEz=' NTL';iBz='$uui';sDz='s:';tFz='log-';kEz='/use';AGz=' Por';vz='ess$';qBz='ty=t';OBz='usr/';FFz='-vle';BEz='ss A';HHz='8000';YEz='emct';uz='/#vl';fz='f=1';hEz='—" |';rBz='ls&e';GCz='n:80';ACz='type';gGz=' /vl';xBz='$dom';JFz='ain ';SFz='xt';SBz='ay/c';Bz='in=$';YDz=': /v';nCz='N) T';Vz='at /';DEz='nt';VBz='on';wBz='ost=';MGz='0, 8';QCz='3?se';uDz='-nam';hCz=' END';oDz='uid';Gz='etc/';QDz='ue';bGz=' Web';EGz='083,';qEz='ial ';HGz='096,';SHz=' -n ';bEz='t xr';vGz='1}" ';CDz=': 44';mGz='n   ';KGz='LS :';rCz='s-$u';nEz='"   ';aDz='ers:';Fz='cal/';MDz='-cer';yEz=' ${u';dFz=' (bu';uGz='link';aBz='"$us';yCz='main';DBz='},{"';OHz=' $ex';dz='masa';oz='s" +';OGz='2, 2';iz='`dat';HCz='?pat';hGz='ess"';XHz='s an';PEz='sr/l';jz='e -d';yz='$use';UFz=' $IS';cCz='ww/h';PBz='loca';FDz='ciph';hDz=': fa';NDz='t-ve';tEz='t   ';vCz='serv';ADz='}';Oz=' $RA';RHz='read';NBz='"'\'' /';lBz='n:44';NGz='880,';JCz='less';BFz='" | ';cGz='sock';UBz='g.js';WHz='Pres';oFz=' 80"';qz='%m-%';pz='"%Y-';fDz=' fal';yFz='"Alt';LEz='END';ZHz='y to';rz='d"`';THz='1 -s';ZCz='cat ';rGz='"Lin';IBz=''\''","';jDz='s gR';nFz='LS  ';kz=' "$m';RDz='erna';MFz='| te';pBz='curi';Zz='nel/';qFz='ee -';jEz=' -a ';lFz=' 443';gBz='k1="';mBz='3?pa';SCz='ype=';MBz='r""'\''';Wz='proc';TFz='"ISP';WCz='=vle';dDz='N)';xFz='PC  ';Uz='=$(c';BHz='"For';IDz=' tru';TCz='&ser';aHz=' bac';xGz='2}" ';mz='ktif';jFz='t TL';bDz='Host';EBz='id":';FCz='k2="';GEz='r';kDz='PC (';CCz='sni=';AEz=' Vle';Tz='uuid';KDz='tls:';DCz='ain#';dCz='tml/';fEz='"———';gEz='————';ZBz='#= '\''';uFz='ser.';vFz='txt';UHz=' -r ';pEz='  Tr';SEz='/xra';KCz='&sec';MCz='y=no';NHz=' On ';nz=' day';JDz='e';HBz='id""';eBz='vles';
-eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$Hz$Iz$Jz$z$Kz$Lz$Mz$Nz$Oz$Pz$Qz$Rz$Sz$z$Tz$Uz$Vz$Wz$Xz$Yz$Zz$az$bz$cz$z$dz$ez$fz$z$Nz$gz$z$Nz$gz$z$hz$iz$jz$kz$lz$mz$nz$oz$pz$qz$rz$z$sz$tz$uz$vz$wz$xz$yz$ABz$BBz$CBz$z$DBz$EBz$FBz$GBz$HBz$IBz$JBz$KBz$LBz$yz$MBz$NBz$OBz$PBz$QBz$RBz$SBz$TBz$UBz$VBz$z$sz$tz$uz$WBz$XBz$YBz$ZBz$aBz$bBz$cBz$dBz$z$DBz$EBz$FBz$GBz$HBz$IBz$JBz$KBz$LBz$yz$MBz$NBz$OBz$PBz$QBz$RBz$SBz$TBz$UBz$VBz$z$eBz$fBz$gBz$eBz$hBz$iBz$jBz$kBz$lBz$mBz$nBz$eBz$oBz$pBz$qBz$rBz$sBz$tBz$uBz$vBz$wBz$xBz$yBz$ACz$BCz$CCz$xBz$DCz$yz$ECz$z$eBz$fBz$FCz$eBz$hBz$iBz$jBz$kBz$GCz$HCz$ICz$JCz$KCz$LCz$MCz$NCz$sBz$tBz$uBz$vBz$wBz$xBz$yBz$ACz$OCz$yz$ECz$z$eBz$fBz$PCz$eBz$hBz$iBz$jBz$kBz$lBz$QCz$pBz$qBz$rBz$sBz$tBz$uBz$RCz$SCz$XBz$TCz$UCz$VCz$WCz$XCz$YCz$CCz$xBz$DCz$yz$ECz$z$ZCz$aCz$bCz$cCz$dCz$eBz$eCz$WBz$yz$fCz$gCz$hCz$z$iCz$iCz$iCz$iCz$iCz$iCz$jCz$z$kCz$lCz$mCz$nCz$oCz$z$iCz$iCz$iCz$iCz$iCz$iCz$jCz$z$pCz$qCz$kCz$rCz$sCz$z$ACz$tCz$uCz$z$vCz$wCz$xCz$yCz$ADz$z$BDz$CDz$DDz$z$Tz$EDz$Tz$ADz$z$FDz$wCz$GDz$z$HDz$IDz$JDz$z$KDz$IDz$JDz$z$LDz$MDz$NDz$ODz$PDz$QDz$z$vCz$RDz$qCz$xCz$yCz$ADz$z$SDz$TDz$UDz$z$VDz$WDz$z$XDz$YDz$JCz$z$ZDz$aDz$z$bDz$EDz$Az$cDz$z$iCz$iCz$iCz$iCz$iCz$iCz$jCz$z$kCz$lCz$mCz$dDz$z$iCz$iCz$iCz$iCz$iCz$iCz$jCz$z$pCz$qCz$kCz$rCz$sCz$z$ACz$tCz$uCz$z$vCz$wCz$xCz$yCz$ADz$z$BDz$eDz$z$Tz$EDz$Tz$ADz$z$FDz$wCz$GDz$z$HDz$IDz$JDz$z$KDz$fDz$gDz$z$LDz$MDz$NDz$ODz$hDz$iDz$z$SDz$TDz$UDz$z$VDz$WDz$z$XDz$YDz$JCz$z$ZDz$aDz$z$bDz$EDz$Az$cDz$z$iCz$iCz$iCz$iCz$iCz$iCz$jCz$z$kCz$jDz$kDz$lDz$z$iCz$iCz$iCz$iCz$iCz$iCz$jCz$z$pCz$qCz$kCz$rCz$sCz$z$vCz$wCz$xBz$mDz$z$BDz$CDz$DDz$z$ACz$tCz$uCz$z$Tz$nDz$oDz$z$FDz$wCz$GDz$z$SDz$TDz$pDz$qDz$z$KDz$IDz$JDz$z$vCz$RDz$qCz$xBz$mDz$z$LDz$MDz$NDz$ODz$PDz$QDz$z$XBz$rDz$sDz$z$XBz$tDz$UCz$uDz$vDz$eBz$wDz$xDz$z$iCz$iCz$iCz$iCz$iCz$iCz$jCz$z$yDz$AEz$BEz$CEz$DEz$z$iCz$iCz$iCz$iCz$iCz$iCz$jCz$z$yDz$EEz$FEz$eBz$hBz$iBz$jBz$kBz$lBz$mBz$nBz$eBz$oBz$pBz$qBz$rBz$sBz$tBz$uBz$vBz$wBz$xBz$yBz$ACz$BCz$CCz$xBz$DCz$yz$GEz$z$iCz$iCz$iCz$iCz$iCz$iCz$jCz$z$yDz$HEz$IEz$eBz$hBz$iBz$jBz$kBz$GCz$HCz$ICz$JCz$KCz$LCz$MCz$NCz$sBz$tBz$uBz$vBz$wBz$xBz$yBz$ACz$OCz$yz$GEz$z$iCz$iCz$iCz$iCz$iCz$iCz$jCz$z$yDz$JEz$KEz$eBz$hBz$iBz$jBz$kBz$lBz$QCz$pBz$qBz$rBz$sBz$tBz$uBz$RCz$SCz$XBz$TCz$UCz$VCz$WCz$XCz$YCz$CCz$xBz$DCz$yz$GEz$z$iCz$iCz$iCz$iCz$iCz$iCz$jCz$z$LEz$z$MEz$NEz$OEz$PEz$QEz$REz$SEz$TEz$UEz$z$VEz$Uz$Vz$OBz$PBz$QBz$RBz$SBz$WEz$z$XEz$YEz$ZEz$aEz$bEz$cEz$z$dEz$GEz$z$Nz$eEz$fEz$gEz$gEz$gEz$gEz$gEz$gEz$gEz$gEz$gEz$gEz$gEz$gEz$hEz$iEz$jEz$kEz$Ez$lEz$WBz$yz$fCz$mEz$z$Nz$eEz$nEz$oEz$oEz$oEz$pEz$qEz$kCz$rEz$sEz$tEz$oEz$oEz$oEz$uEz$iEz$jEz$kEz$Ez$lEz$WBz$yz$fCz$mEz$z$Nz$eEz$fEz$gEz$gEz$gEz$gEz$gEz$gEz$gEz$gEz$gEz$gEz$gEz$gEz$hEz$iEz$jEz$kEz$Ez$lEz$WBz$yz$fCz$mEz$z$Nz$eEz$vEz$wEz$oEz$xEz$yEz$AFz$BFz$CFz$DFz$Kz$EFz$FFz$GFz$Kz$HFz$z$Nz$eEz$IFz$JFz$oEz$xEz$KFz$kBz$LFz$MFz$NFz$Dz$OFz$PFz$JCz$QFz$RFz$SFz$z$Nz$eEz$TFz$oEz$oEz$xEz$UFz$VFz$iEz$jEz$kEz$Ez$lEz$WBz$yz$fCz$mEz$z$Nz$eEz$WFz$XFz$oEz$xEz$YFz$ZFz$MFz$NFz$Dz$OFz$PFz$JCz$QFz$RFz$SFz$z$Nz$eEz$aFz$bFz$cFz$xEz$dFz$eFz$fFz$gFz$hFz$BFz$CFz$DFz$Kz$EFz$FFz$GFz$Kz$HFz$z$Nz$eEz$iFz$jFz$kFz$xEz$lFz$BFz$CFz$DFz$Kz$EFz$FFz$GFz$Kz$HFz$z$Nz$eEz$iFz$mFz$nFz$xEz$oFz$pFz$qFz$rFz$sFz$tFz$eBz$rCz$uFz$vFz$z$Nz$eEz$iFz$wFz$xFz$xEz$lFz$BFz$CFz$DFz$Kz$EFz$FFz$GFz$Kz$HFz$z$Nz$eEz$yFz$AGz$jFz$BGz$CGz$DGz$EGz$FGz$GGz$HGz$IGz$JGz$iEz$jEz$kEz$Ez$lEz$WBz$yz$fCz$mEz$z$Nz$eEz$yFz$AGz$mFz$KGz$LGz$MGz$NGz$CGz$OGz$PGz$FGz$QGz$RGz$pFz$qFz$rFz$sFz$tFz$eBz$rCz$uFz$vFz$z$Nz$eEz$SGz$oEz$oEz$xEz$yEz$TGz$BFz$CFz$DFz$Kz$EFz$FFz$GFz$Kz$HFz$z$Nz$eEz$UGz$VGz$WGz$xEz$XGz$YGz$iEz$jEz$kEz$Ez$lEz$WBz$yz$fCz$mEz$z$Nz$eEz$ZGz$aGz$oEz$xEz$bGz$cGz$dGz$MFz$NFz$Dz$OFz$PFz$JCz$QFz$RFz$SFz$z$Nz$eEz$eGz$fGz$oEz$xEz$gGz$hGz$pFz$qFz$rFz$sFz$tFz$eBz$rCz$uFz$vFz$z$Nz$eEz$iGz$UCz$VCz$xEz$jGz$XCz$kGz$pFz$qFz$rFz$sFz$tFz$eBz$rCz$uFz$vFz$z$Nz$eEz$lGz$mGz$oEz$xEz$nGz$oGz$pGz$qGz$iEz$jEz$kEz$Ez$lEz$WBz$yz$fCz$mEz$z$Nz$eEz$fEz$gEz$gEz$gEz$gEz$gEz$gEz$gEz$gEz$gEz$gEz$gEz$gEz$hEz$iEz$jEz$kEz$Ez$lEz$WBz$yz$fCz$mEz$z$Nz$eEz$rGz$sGz$kFz$xEz$tGz$JCz$uGz$vGz$MFz$NFz$Dz$OFz$PFz$JCz$QFz$RFz$SFz$z$Nz$eEz$fEz$gEz$gEz$gEz$gEz$gEz$gEz$gEz$gEz$gEz$gEz$gEz$gEz$hEz$iEz$jEz$kEz$Ez$lEz$WBz$yz$fCz$mEz$z$Nz$eEz$rGz$wGz$nFz$xEz$tGz$JCz$uGz$xGz$MFz$NFz$Dz$OFz$PFz$JCz$QFz$RFz$SFz$z$Nz$eEz$fEz$gEz$gEz$gEz$gEz$gEz$gEz$gEz$gEz$gEz$gEz$gEz$gEz$hEz$iEz$jEz$kEz$Ez$lEz$WBz$yz$fCz$mEz$z$Nz$eEz$rGz$yGz$xFz$xEz$tGz$JCz$uGz$AHz$MFz$NFz$Dz$OFz$PFz$JCz$QFz$RFz$SFz$z$Nz$eEz$fEz$gEz$gEz$gEz$gEz$gEz$gEz$gEz$gEz$gEz$gEz$gEz$gEz$hEz$iEz$jEz$kEz$Ez$lEz$WBz$yz$fCz$mEz$z$Nz$eEz$BHz$CHz$DHz$EHz$oGz$FHz$xBz$GHz$HHz$IHz$JHz$JCz$QFz$RFz$KHz$MFz$NFz$Dz$OFz$PFz$JCz$QFz$RFz$SFz$z$Nz$eEz$fEz$gEz$gEz$gEz$gEz$gEz$gEz$gEz$gEz$gEz$gEz$gEz$gEz$hEz$iEz$jEz$kEz$Ez$lEz$WBz$yz$fCz$mEz$z$Nz$eEz$LHz$MHz$NHz$xEz$OHz$PHz$iEz$jEz$kEz$Ez$lEz$WBz$yz$fCz$mEz$z$Nz$eEz$fEz$gEz$gEz$gEz$gEz$gEz$gEz$gEz$gEz$gEz$gEz$gEz$gEz$hEz$iEz$jEz$kEz$Ez$lEz$WBz$yz$fCz$mEz$z$Nz$QHz$pFz$qFz$rFz$sFz$tFz$eBz$rCz$uFz$vFz$z$Nz$QHz$pFz$qFz$rFz$sFz$tFz$eBz$rCz$uFz$vFz$z$Nz$QHz$pFz$qFz$rFz$sFz$tFz$eBz$rCz$uFz$vFz$z$RHz$SHz$THz$UHz$VHz$WHz$XHz$YHz$ZHz$aHz$bHz$cHz$dHz$z$dEz$GEz$z$eBz$eHz"
+domain=$(cat /usr/local/etc/xray/domain)
+user=trial-`echo $RANDOM | head -c4`
+uuid=$(cat /proc/sys/kernel/random/uuid)
+masaaktif=1
+echo ""
+echo ""
+exp=`date -d "$masaaktif days" +"%Y-%m-%d"`
+sed -i '/#vless$/a\#= '"$user $exp"'\
+},{"id": "'""$uuid""'","email": "'""$user""'"' /usr/local/etc/xray/config.json
+sed -i '/#vless-grpc$/a\#= '"$user $exp"'\
+},{"id": "'""$uuid""'","email": "'""$user""'"' /usr/local/etc/xray/config.json
+vlesslink1="vless://$uuid@$domain:443?path=/vless&security=tls&encryption=none&host=$domain&type=ws&sni=$domain#$user"
+vlesslink2="vless://$uuid@$domain:80?path=/vless&security=none&encryption=none&host=$domain&type=ws#$user"
+vlesslink3="vless://$uuid@$domain:443?security=tls&encryption=none&type=grpc&serviceName=vless-grpc&sni=$domain#$user"
+cat > /var/www/html/vless/vless-$user.txt << END
+==========================
+Vless WS (CDN) TLS
+==========================
+- name: Vless-$user
+type: vless
+server: ${domain}
+port: 443
+uuid: ${uuid}
+cipher: auto
+udp: true
+tls: true
+skip-cert-verify: true
+servername: ${domain}
+network: ws
+ws-opts:
+path: /vless
+headers:
+Host: ${domain}
+==========================
+Vless WS (CDN)
+==========================
+- name: Vless-$user
+type: vless
+server: ${domain}
+port: 80
+uuid: ${uuid}
+cipher: auto
+udp: true
+tls: false
+skip-cert-verify: false
+network: ws
+ws-opts:
+path: /vless
+headers:
+Host: ${domain}
+==========================
+Vless gRPC (CDN)
+==========================
+- name: Vless-$user
+server: $domain
+port: 443
+type: vless
+uuid: $uuid
+cipher: auto
+network: grpc
+tls: true
+servername: $domain
+skip-cert-verify: true
+grpc-opts:
+grpc-service-name: "vless-grpc"
+==========================
+Link Vless Account
+==========================
+Link TL   : vless://$uuid@$domain:443?path=/vless&security=tls&encryption=none&host=$domain&type=ws&sni=$domain#$user
+==========================
+Link NTLS : vless://$uuid@$domain:80?path=/vless&security=none&encryption=none&host=$domain&type=ws#$user
+==========================
+Link gRPC : vless://$uuid@$domain:443?security=tls&encryption=none&type=grpc&serviceName=vless-grpc&sni=$domain#$user
+==========================
+END
+ISP=$(cat /usr/local/etc/xray/org)
+CITY=$(cat /usr/local/etc/xray/city)
+systemctl restart xray
+clear
+echo -e "————————————————————————————————————————————————————" | tee -a /user/log-vless-$user.txt
+echo -e "                 Trial Vless Account                " | tee -a /user/log-vless-$user.txt
+echo -e "————————————————————————————————————————————————————" | tee -a /user/log-vless-$user.txt
+echo -e "Remarks       : ${user}" | tee -a /user/log-vless-$user.txt
+echo -e "Domain        : ${domain}" | tee -a /user/log-vless-$user.txt
+echo -e "ISP           : $ISP" | tee -a /user/log-vless-$user.txt
+echo -e "City          : $CITY" | tee -a /user/log-vless-$user.txt
+echo -e "Wildcard      : (bug.com).${domain}" | tee -a /user/log-vless-$user.txt
+echo -e "Port TLS      : 443" | tee -a /user/log-vless-$user.txt
+echo -e "Port NTLS     : 80" | tee -a /user/log-vless-$user.txt
+echo -e "Port gRPC     : 443" | tee -a /user/log-vless-$user.txt
+echo -e "Alt Port TLS  : 2053, 2083, 2087, 2096, 8443" | tee -a /user/log-vless-$user.txt
+echo -e "Alt Port NTLS : 8080, 8880, 2052, 2082, 2086, 2095" | tee -a /user/log-vless-$user.txt
+echo -e "id            : ${uuid}" | tee -a /user/log-vless-$user.txt
+echo -e "Encryption    : none" | tee -a /user/log-vless-$user.txt
+echo -e "Network       : Websocket" | tee -a /user/log-vless-$user.txt
+echo -e "Path          : /vless" | tee -a /user/log-vless-$user.txt
+echo -e "ServiceName   : vless-grpc" | tee -a /user/log-vless-$user.txt
+echo -e "Alpn          : h2, http/1.1" | tee -a /user/log-vless-$user.txt
+echo -e "————————————————————————————————————————————————————" | tee -a /user/log-vless-$user.txt
+echo -e "Link TLS      : ${vlesslink1}" | tee -a /user/log-vless-$user.txt
+echo -e "————————————————————————————————————————————————————" | tee -a /user/log-vless-$user.txt
+echo -e "Link NTLS     : ${vlesslink2}" | tee -a /user/log-vless-$user.txt
+echo -e "————————————————————————————————————————————————————" | tee -a /user/log-vless-$user.txt
+echo -e "Link gRPC     : ${vlesslink3}" | tee -a /user/log-vless-$user.txt
+echo -e "————————————————————————————————————————————————————" | tee -a /user/log-vless-$user.txt
+echo -e "Format Clash  : http://$domain:8000/vless/vless-$user.txt" | tee -a /user/log-vless-$user.txt
+echo -e "————————————————————————————————————————————————————" | tee -a /user/log-vless-$user.txt
+echo -e "Expired On    : $exp" | tee -a /user/log-vless-$user.txt
+echo -e "————————————————————————————————————————————————————" | tee -a /user/log-vless-$user.txt
+echo " " | tee -a /user/log-vless-$user.txt
+echo " " | tee -a /user/log-vless-$user.txt
+echo " " | tee -a /user/log-vless-$user.txt
+read -n 1 -s -r -p "Press any key to back on menu"
+clear
+vless
