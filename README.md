@@ -46,3 +46,4 @@
 
 # Screenshot
 ![ss](https://raw.githubusercontent.com/dugong-lewat/autoscript/main/xray.jpg)
+# original by https://github.com/dugong-lewat/autoscript
